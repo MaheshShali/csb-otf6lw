@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://maheshshali.github.io/csb-otf6lw/static/css/main.e2923709.chunk.css",
+    "main.js": "https://maheshshali.github.io/csb-otf6lw/static/js/main.ef34f145.chunk.js",
+    "main.js.map": "https://maheshshali.github.io/csb-otf6lw/static/js/main.ef34f145.chunk.js.map",
+    "runtime-main.js": "https://maheshshali.github.io/csb-otf6lw/static/js/runtime-main.fe54fddb.js",
+    "runtime-main.js.map": "https://maheshshali.github.io/csb-otf6lw/static/js/runtime-main.fe54fddb.js.map",
+    "static/js/2.b7dfc1ef.chunk.js": "https://maheshshali.github.io/csb-otf6lw/static/js/2.b7dfc1ef.chunk.js",
+    "static/js/2.b7dfc1ef.chunk.js.map": "https://maheshshali.github.io/csb-otf6lw/static/js/2.b7dfc1ef.chunk.js.map",
+    "index.html": "https://maheshshali.github.io/csb-otf6lw/index.html",
+    "static/css/main.e2923709.chunk.css.map": "https://maheshshali.github.io/csb-otf6lw/static/css/main.e2923709.chunk.css.map",
+    "static/js/2.b7dfc1ef.chunk.js.LICENSE.txt": "https://maheshshali.github.io/csb-otf6lw/static/js/2.b7dfc1ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe54fddb.js",
+    "static/js/2.b7dfc1ef.chunk.js",
+    "static/css/main.e2923709.chunk.css",
+    "static/js/main.ef34f145.chunk.js"
+  ]
+}
